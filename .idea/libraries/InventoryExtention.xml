@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InventoryExtention">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../InventoryExtention/InventoryExtention.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

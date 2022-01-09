@@ -1,0 +1,10 @@
+#Command Messages
+command:
+  name: "backpack"
+  description: "Open your Backpack"
+  usageMessage: "/backpack <player>"
+  aliases: "bp,backp,bpack"
+
+prefix: "§8[§4BackpackSystem§8] §r"
+no:
+  permission: "§cYou don't have permissions to run this command!"

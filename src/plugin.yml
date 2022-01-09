@@ -1,0 +1,5 @@
+name: BackpackSystem
+main: de.daniel.backpack.BackpackSystemMain
+version: 1.0.0
+api: [1.0.0]
+author: Daniel Adam
